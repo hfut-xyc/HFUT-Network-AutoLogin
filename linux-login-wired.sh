@@ -8,4 +8,4 @@ url="http://192.168.4.1/drcom/login?callback=dr1003&DDDDD=${id}&upass=${passwd}&
 
 curl ${url}
 echo
-ping baidu.com
+ping -c 4 baidu.com
