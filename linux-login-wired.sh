@@ -1,5 +1,5 @@
 #!/bin/bash
-date 
+date
 echo "start to login"
 
 id="xxx"
